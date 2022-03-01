@@ -1,4 +1,4 @@
-# Halo-Infinite-Modular-Shader
+# Halo Infinite Shader Resources
 A Collection of various Halo Infinite Shaders I have worked on (and am working on)
 
 Currently Includes
