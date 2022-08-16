@@ -13,8 +13,6 @@ Currently Includes
 
 Halo Infinite Modular Shader (Main)
 
-Halo Infinite Modular Shader (Compact) 
-
 Halo Infinite Skin Shader (by Surasia)
 
 --------------------------------------
