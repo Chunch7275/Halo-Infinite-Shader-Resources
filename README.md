@@ -20,4 +20,10 @@ Ready for Release
 --------------------------------------
 Currently Working on:
 
-Halo Infinite Enviroment Shader
+Halo Infinite Enviroment Shaders
+  Coh Shader  
+  Rohg Shader
+  Rohm Shader
+  Environment coh ASG 
+
+Halo Infinite Skin Shader
